@@ -1,5 +1,3 @@
-
-   
  #                                           RAILWAY MANAGEMENT SYSTEM
 
 import mysql.connector  
